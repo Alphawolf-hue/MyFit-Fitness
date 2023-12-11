@@ -1,3 +1,7 @@
+# React Fitness Application
+
+![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+
 # MyFit-Fitness
 React Exercise app
 # Getting Started with Create React App
