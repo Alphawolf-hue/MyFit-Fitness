@@ -8,7 +8,7 @@ Parsing through sections:
 ![Screenshot 2023-12-28 220848](https://github.com/Alphawolf-hue/MyFit-Fitness/assets/133038237/4a01e566-c545-468e-a3ad-a61f8b00db7b)
 React Exercise app
 
-Functionalities:
+# Functionalities:
 Provide a variety of workout routines based on different fitness levels and goals.
 Include features for users to customize and save their workout plans
 
@@ -18,7 +18,7 @@ Integrate with RapidAPI to fetch various workouts for different body parts.
 Responsive Design:
 Ensure the app is accessible on different devices, providing a seamless experience on both desktop and mobile.
 
-Advantages of MyFit Fitness:
+# Advantages of MyFit Fitness:
 Dynamic User Experience:
 React.js allows for a dynamic and responsive user interface, enhancing the overall user experience.
 
@@ -34,7 +34,7 @@ The modular structure of React.js makes it easier to scale the application as ne
 Cross-Browser Compatibility:
 Using HTML, CSS, and JavaScript ensures cross-browser compatibility, allowing users to access the app from different web browsers.
 
-Problems Faced During Creation:
+# Problems Faced During Creation:
 
 API Limitations:
 RapidAPI may have usage limitations, such as rate limits or restrictions on certain endpoints. Handling these limitations gracefully is crucial.
