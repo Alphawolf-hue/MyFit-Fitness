@@ -1,8 +1,6 @@
 # React Fitness Application
 
-![React Fitness Application](![Uploading Screenshot 2023-12-28 221013.png…]()
-)
-
+![Screenshot 2023-12-28 221013](https://github.com/Alphawolf-hue/MyFit-Fitness/assets/133038237/21f3358d-9172-4bca-9644-dc158c48108c)
 # MyFit-Fitness
 React Exercise app
 # Getting Started with Create React App
