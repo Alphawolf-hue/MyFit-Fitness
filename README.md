@@ -1,10 +1,10 @@
 # MyFit-Fitness
 Welcome to our React-based fitness application, where health meets technology. This app seamlessly integrates RapidAPI with HTML, CSS, and JavaScript to provide a robust fitness experience.
-Here are the screenshots of this app
+# Here are the screenshots of this app
 ![Screenshot 2023-12-28 221013](https://github.com/Alphawolf-hue/MyFit-Fitness/assets/133038237/21f3358d-9172-4bca-9644-dc158c48108c)
-Workouts:
+# Workouts Page:
 ![Screenshot 2023-12-28 220819](https://github.com/Alphawolf-hue/MyFit-Fitness/assets/133038237/ddb0754c-7d03-4525-a954-a6e0a215decb)
-Parsing through sections:
+# Parsing through sections:
 ![Screenshot 2023-12-28 220848](https://github.com/Alphawolf-hue/MyFit-Fitness/assets/133038237/4a01e566-c545-468e-a3ad-a61f8b00db7b)
 React Exercise app
 
@@ -51,7 +51,7 @@ Large-scale fitness apps may face performance issues. Proper optimization, code 
 Cross-Browser Compatibility:
 While HTML, CSS, and JavaScript provide cross-browser compatibility, certain features or styles may behave differently in various browsers, requiring thorough testing.
 
-# Future Prospects for this app
+# Future Prospects of this app:
 Machine Learning for Personalization:
 Implement machine learning algorithms to analyze user data and provide personalized workout and nutrition recommendations.
 
