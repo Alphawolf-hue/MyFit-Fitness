@@ -2,9 +2,10 @@
 Welcome to our React-based fitness application, where health meets technology. This app seamlessly integrates RapidAPI with HTML, CSS, and JavaScript to provide a robust fitness experience.
 Here are the screenshots of this app
 ![Screenshot 2023-12-28 221013](https://github.com/Alphawolf-hue/MyFit-Fitness/assets/133038237/21f3358d-9172-4bca-9644-dc158c48108c)
+Workouts:
 ![Screenshot 2023-12-28 220819](https://github.com/Alphawolf-hue/MyFit-Fitness/assets/133038237/ddb0754c-7d03-4525-a954-a6e0a215decb)
-
-
+Parsing through sections:
+![Screenshot 2023-12-28 220848](https://github.com/Alphawolf-hue/MyFit-Fitness/assets/133038237/4a01e566-c545-468e-a3ad-a61f8b00db7b)
 React Exercise app
 # Getting Started with Create React App
 
